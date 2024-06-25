@@ -1,13 +1,5 @@
 # Vet school summer symposium 2024
 
-
-
-Welcome to the landing page for people who found my poster at the Nottingham  spring conference. This website is still under actiuve development.  However, I wanted to get a protype up and running for this conference.
-
-## Poster
-
-
-
 ## Author contact details
 
 
